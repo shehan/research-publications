@@ -3,6 +3,7 @@
 <ul>
 <li>
 Daniel E. Krutz, Nuthan Munaiah, <b>Anthony Peruma</b>, and Mohamed Wiem Mkaouer. 2017. <b>Who added that permission to my app?: an analysis of developer permission changes in open source Android apps</b>. In Proceedings of the 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft '17). IEEE Press, Piscataway, NJ, USA, 165-169. DOI: 10.1109/MOBILESoft.2017.5
+<br><a href="publications/2017_MobileSoft_WhoAddedThatPermission.pdf" target="_blank">Click here to read/download</a>
 </li>
 <br>
 <li>
