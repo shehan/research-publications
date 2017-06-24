@@ -9,6 +9,7 @@ Daniel E. Krutz, Nuthan Munaiah, <b>Anthony Peruma</b>, and Mohamed Wiem Mkaouer
 <li>
 J. C. S. Santos, <b>A. Peruma</b>, M. Mirakhorli, M. Galstery, J. V. Vidal and A. Sejfia, "<b>Understanding Software Vulnerabilities Related to Architectural Security Tactics: An Empirical Investigation of Chromium, PHP and Thunderbird</b>," 2017 IEEE International Conference on Software Architecture (ICSA), Gothenburg, 2017, pp. 69-78. doi: 10.1109/ICSA.2017.39
 <br><em><i>Best Paper Award</i></em>
+<br><a href="publications/2017_ICSA_UnderstandingSoftwareVulnerabilities.pdf" target="_blank">Click here to read/download</a>
 </li>
 </ul>
 
