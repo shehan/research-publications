@@ -8,7 +8,7 @@ Yasmine N. El-Glaly, <b>Anthony Peruma</b>, Daniel E. Krutz, and J. Scott Hawker
 <br>
 <li>
 <b>Anthony Peruma</b> and Yasmine N. El-Glaly. 2017. <b>CollabAll: Inclusive Discussion Support System For Deaf and Hearing Students</b>. In Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS '17). ACM, New York, NY, USA, 315-316. DOI: https://doi.org/10.1145/3132525.3134800
-<br><a href="publications/2017_CollabAllPoster.pdf" target="_blank">Click here to read/download</a>
+<br><a href="publications/2017_ASSETS_CollabAllPoster.pdf" target="_blank">Click here to read/download</a>
 </li>
 <br>
 <li>
