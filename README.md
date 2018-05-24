@@ -2,6 +2,10 @@
 
 <ul>
 <li>
+Peruma, Anthony Shehan Ayam, "What the Smell? An Empirical Investigation on the Distribution and Severity of Test Smells in Open Source Android Applications" (2018). Thesis. Rochester Institute of Technology. Accessed from http://scholarworks.rit.edu/theses/9774
+<br><a href="publications/2018_RIT_Thesis_What the Smell.pdf" target="_blank">Read/Download</a> | <a href="http://scholarworks.rit.edu/theses/9774/" target="_blank">Digital Library</a>
+</li>
+<li>
 Yasmine N. El-Glaly, <b>Anthony Peruma</b>, Daniel E. Krutz, and J. Scott Hawker. 2018. <b>Apps for everyone: mobile accessibility learning modules</b>. ACM Inroads 9, 2 (April 2018), 30-33. DOI: https://doi.org/10.1145/3182184
 <br><a href="publications/2018_InRoads_AppsForEveryone.pdf" target="_blank">Read/Download</a> | <a href="https://dl.acm.org/citation.cfm?doid=3211407.3182184" target="_blank">Digital Library</a>
 </li>
