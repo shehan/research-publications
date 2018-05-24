@@ -2,7 +2,7 @@
 
 <ul>
 <li>
-Peruma, Anthony Shehan Ayam, "What the Smell? An Empirical Investigation on the Distribution and Severity of Test Smells in Open Source Android Applications" (2018). Thesis. Rochester Institute of Technology.
+<b>Peruma, Anthony Shehan Ayam</b>, "<b>What the Smell? An Empirical Investigation on the Distribution and Severity of Test Smells in Open Source Android Applications</b>" (2018). Thesis. Rochester Institute of Technology.
 <br><a href="publications/2018_RIT_Thesis_What the Smell.pdf" target="_blank">Read/Download</a> | <a href="http://scholarworks.rit.edu/theses/9774/" target="_blank">Digital Library</a>
 </li>
 <br>
