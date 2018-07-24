@@ -2,6 +2,11 @@
 
 <ul>
 <li>
+<b>Anthony Peruma</b>, Jeffrey Palmerino, and Daniel E. Krutz. 2018. <b>Investigating user perception and comprehension of Android permission models</b>. In Proceedings of the 5th International Conference on Mobile Software Engineering and Systems (MOBILESoft '18). ACM, New York, NY, USA, 56-66. DOI: https://doi.org/10.1145/3197231.3197246
+<br><a href="publications/2018_MobileSoft_InvestigatingUser" target="_blank">Read/Download</a> | <a href="https://dl.acm.org/citation.cfm?id=3197246" target="_blank">Digital Library</a>
+</li>
+<br>
+<li>
 <b>Peruma, Anthony Shehan Ayam</b>, "<b>What the Smell? An Empirical Investigation on the Distribution and Severity of Test Smells in Open Source Android Applications</b>" (2018). Thesis. Rochester Institute of Technology.
 <br><a href="publications/2018_RIT_Thesis_What the Smell.pdf" target="_blank">Read/Download</a> | <a href="http://scholarworks.rit.edu/theses/9774/" target="_blank">Digital Library</a>
 </li>
