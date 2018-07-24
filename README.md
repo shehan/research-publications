@@ -5,6 +5,7 @@
 <b>Anthony Peruma</b> and Daniel E. Krutz. 2018. <b>Security: a critical quality attribute in self-adaptive systems</b>. In Proceedings of the 13th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS '18). ACM, New York, NY, USA, 188-189. DOI: https://doi.org/10.1145/3194133.3194134
 <br><a href="publications/2018_SEAMS_Security.pdf" target="_blank">Read/Download</a> | <a href="https://dl.acm.org/citation.cfm?id=3194134" target="_blank">Digital Library</a>
 </li>
+<br>
 <li>
 <b>Anthony Peruma</b>, Jeffrey Palmerino, and Daniel E. Krutz. 2018. <b>Investigating user perception and comprehension of Android permission models</b>. In Proceedings of the 5th International Conference on Mobile Software Engineering and Systems (MOBILESoft '18). ACM, New York, NY, USA, 56-66. DOI: https://doi.org/10.1145/3197231.3197246
 <br><a href="publications/2018_MobileSoft_InvestigatingUser.pdf" target="_blank">Read/Download</a> | <a href="https://dl.acm.org/citation.cfm?id=3197246" target="_blank">Digital Library</a>
