@@ -2,6 +2,16 @@
 
 <ul>
 <li>
+<b>Anthony Peruma</b>, Samuel A. Malachowsky, and Daniel E. Krutz. 2018. <b>Providing an experiential cybersecurity learning experience through mobile security labs</b>. In Proceedings of the 1st International Workshop on Security Awareness from Design to Deployment (SEAD '18). ACM, New York, NY, USA, 51-54. DOI: https://doi.org/10.1145/3194707.3194712
+<br><a href="publications/2018_SEAD_ProvidingAnExperiential.pdf" target="_blank">Read/Download</a> | <a href="https://dl.acm.org/citation.cfm?id=3194712" target="_blank">Digital Library</a>
+</li>
+<br>
+<li>
+<b>A. Peruma</b> and D. Krutz, "<b>Understanding the Relationship between Quality and Security: A Large-Scale Analysis of Android Applications</b>," 2018 IEEE/ACM 1st International Workshop on Security Awareness from Design to Deployment (SEAD), Gothenburg, 2018, pp. 19-25. doi: 10.23919/SEAD.2018.8472849
+<br><a href="publications/2018_SEAD_UnderstandingTheRelationship.pdf" target="_blank">Read/Download</a> | <a href="https://ieeexplore.ieee.org/abstract/document/8472849" target="_blank">Digital Library</a>
+</li>
+<br>
+<li>
 <b>Anthony Peruma</b> and Daniel E. Krutz. 2018. <b>Security: a critical quality attribute in self-adaptive systems</b>. In Proceedings of the 13th International Conference on Software Engineering for Adaptive and Self-Managing Systems (SEAMS '18). ACM, New York, NY, USA, 188-189. DOI: https://doi.org/10.1145/3194133.3194134
 <br><a href="publications/2018_SEAMS_Security.pdf" target="_blank">Read/Download</a> | <a href="https://dl.acm.org/citation.cfm?id=3194134" target="_blank">Digital Library</a>
 </li>
